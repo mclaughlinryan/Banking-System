@@ -7,4 +7,4 @@ The user can select from one of the following menu options:
 - Post a credit to an account
 - Post a debit to an account
 - Print the transactions for an account
-- Print a list of all account numbers, customer names, dates of last transctions, and current account balances
+- Print a list of all account numbers, account holder names, dates of last transctions, and current account balances
