@@ -33,7 +33,7 @@ public class BankingSystemApplication {
             System.out.println("2. Post a credit to an account.");
             System.out.println("3. Post a debit to an account.");
             System.out.println("4. Print the transactions for an account.");
-            System.out.println("5. Print a list of all accounts' numbers, customer names, date of last transaction, and currenct balance.");
+            System.out.println("5. Print a list of all accounts' numbers, customer names, date of last transaction, and current balance.");
             System.out.println("6. Exit");
 
             menuOption = userInput.nextInt();
