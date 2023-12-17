@@ -3,7 +3,7 @@
 This program allows the user to create bank accounts of different types and post transactions to the accounts. The user can create checking accounts and loan accounts, and the program uses polymorphism in Java for extending similar functionality between the different types of accounts.
 
 The user can select from one of the following menu options:
-- Add new bank account
+- Add a new bank account
 - Post a credit to an account
 - Post a debit to an account
 - Print the transactions for an account
